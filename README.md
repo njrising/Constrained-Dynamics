@@ -7,3 +7,5 @@ Principles and Practice _Constrained Dynamics_" by Andrew Witkin
 
 All implementations are my own.
 
+![](\doc\gif1.gif)
+
